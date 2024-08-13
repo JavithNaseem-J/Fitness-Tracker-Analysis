@@ -56,8 +56,8 @@ The donut chart reveals that Road transport has the highest defect rate (33.4%),
 
 ## Results
 
-**Optimize Skincare and Cosmetics Inventory:** Increase stock levels and target marketing efforts, as these categories lead in sales and revenue.
-**Address High Defect Rates in Road Transport:** Investigate and reduce defect rates in road transport, considering alternative methods if necessary.
-**Focus on Cost-Effective Shipping:** Prioritize the most cost-effective carriers and routes to improve shipping efficiency and reduce expenses.
+-**Optimize Skincare and Cosmetics Inventory:** Increase stock levels and target marketing efforts, as these categories lead in sales and revenue.
+-**Address High Defect Rates in Road Transport:** Investigate and reduce defect rates in road transport, considering alternative methods if necessary.
+-**Focus on Cost-Effective Shipping:** Prioritize the most cost-effective carriers and routes to improve shipping efficiency and reduce expenses.
 
 
