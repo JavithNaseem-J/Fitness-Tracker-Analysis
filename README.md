@@ -43,8 +43,6 @@ The dataset used for this analysis contains fitness tracker data, including info
 ## Conclusion
 The insights derived from this analysis can help BellaBeat better understand its customers and create more effective marketing and product strategies.
 
-## Author
-- **Javith Naseem**
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
